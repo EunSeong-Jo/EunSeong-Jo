@@ -1,4 +1,4 @@
-## Hi there 👋 <img src ="https://github.com/images/mona-whisper.gif" width="100"/>
+## Hi there 👋 <img src ="https://github.com/images/mona-whisper.gif" width="62" height="62"/>
 <!--
 **EunSeong-Jo/EunSeong-Jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
