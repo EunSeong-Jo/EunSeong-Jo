@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 <h1>Hey! Nice to see you.</h1>
 
 
