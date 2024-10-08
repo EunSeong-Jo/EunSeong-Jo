@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src ="https://github.com/images/mona-whisper.gif"/>
 <!--
 **EunSeong-Jo/EunSeong-Jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
