@@ -22,9 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EunSeong-Jo&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunSeong-Jo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EunSeong-Jo&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunSeong-Jo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![GitHub Contributions Chart](https://github-contributions-chart.vercel.app/api?username=EunSeong-Jo)](https://github.com/sallar/github-contributions-chart) -->
 
