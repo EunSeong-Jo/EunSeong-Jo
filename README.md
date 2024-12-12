@@ -1,56 +1,54 @@
-## Hi there 👋 <img src ="https://github.com/images/mona-whisper.gif" width="62" height="62"/>
-<!--
-**EunSeong-Jo/EunSeong-Jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm [Your Name]!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+[Your+Name]!;I+love+coding+and+data+science.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![Banner](https://your-image-link.com/banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a [Your Role/Title] who loves [Your Interests, e.g., "building creative software solutions" or "exploring data insights"].
 
-<h1>Hey! Nice to see you.</h1>
+---
 
+## 🔧 Tools & Technologies
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript)
+![VS Code](https://img.shields.io/badge/VSCode-Preferred-lightblue?style=for-the-badge&logo=visual-studio-code)
 
-<p>Welcome to my page! </br> Student from Dongyang Mirae Univ. <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> <b>Seoul, Korea</b>, currently living in <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20"/> <b>Seoul, Korea</b>. </p>
-<h3>Things I code with</h3>
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+---
 
-<!--
-**ai7dnn/ai7dnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
+- [**Data Analysis on Kaggle**](https://github.com/EunSeong-Jo/your-repo): A collection of my Kaggle notebooks and analysis projects.
+- [**Portfolio Website**](https://github.com/EunSeong-Jo/portfolio): My personal portfolio website showcasing my work and skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EunSeong-Jo&show_icons=true&theme=radical)
 
-### 깃헙 꾸미기 참조
-- [드림코딩, 깃허브 계정 제대로 꾸미기](https://www.youtube.com/watch?v=w9DfC2BHGPA)
+[![Top Langs](https://readme-stats.vercel.app/api/top-langs/?username=EunSeong-Jo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 참조 깃헙 계정
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/)
-- [Thomas](https://github.com/thmsgbrt)
-- [Thaiane Braga](https://github.com/thaiane)
-- [swyx](https://github.com/sw-yx) 
-- [coordinate-cat](https://github.com/coordinate-cat)
-- [dream-ellie](https://github.com/dream-ellie)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=EunSeong-Jo&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 뱃지 만들기
-- [shields io](https://shields.io/) 
+[![3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=EunSeong-Jo)](https://github.com/EunSeong-Jo)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=EunSeong-Jo&style=flat-square&color=blue)
+
+---
+
+## 🌱 About Me
+- 🌍 I'm passionate about exploring the intersection of technology and creativity.
+- 🎵 I enjoy listening to [Your Favorite Music Genre or Artist].
+- ✈️ Love traveling and capturing moments.
+
+---
+
+## 🎯 Goals for 2024
+- Launch a personal blog to share my journey in tech.
+- Contribute to at least 10 open-source projects.
+- Build an end-to-end machine learning project and deploy it.
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
+![GIF](https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif)
